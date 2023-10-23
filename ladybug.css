@@ -1,0 +1,217 @@
+body{
+    width: 100vw;
+    /*height: 100vh;*/
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    width: 1488px;
+    height: 120px;
+    background: #000;
+}
+
+.nav{
+    width: 1288px;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 auto;
+}
+
+a{
+    color: #FFF;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 22px;
+    padding-top: 49px;
+    margin-left: 48px;
+}
+
+/*Главная страница*/
+section{
+    width: 1488px;
+    height: 630px;
+    background: linear-gradient(180deg, #000 0%, #700707 100%);
+}
+
+.textpic{
+    width: 1288px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.images{
+    align-items: center;
+    display: flex;
+}
+
+.txt{
+    color: #FFF;
+    text-align: right;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 22px;
+    line-height: 37px; /* 145.455% */
+    
+}
+
+/*Тикки*/
+.tk{
+    width: 1488px;
+    height: 750px;
+    background: linear-gradient(180deg, #700707 0%, #F00 48.02%, #4AD01C 91.77%);
+}
+
+.textpic1{
+    width: 1288px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.txt_lady{
+    display: block;
+    align-content: center;
+}
+
+
+.txt_tikki{
+    color: #FFF;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 22px;
+    line-height: 37px; /* 145.455% */
+    float: left;
+    margin-top: 70px;
+}
+
+.txt_mary{
+    color: #FFF;
+    text-align: right;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 22px;
+    line-height: 37px;
+    float: right;
+}
+
+.picc{
+    margin-top: 170px;
+}
+
+
+.piccc{
+    margin-top: 50px;
+}
+
+/*Плагг*/
+.pl{
+    width: 1488px;
+    height: 750px;
+    background: linear-gradient(180deg, #4AD01C 0.01%, #214D1D 58.96%, #162B14 100%);
+}
+
+.textpic2{
+    width: 1288px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.txt_cat{
+    display: block;
+    align-content: center;
+}
+
+
+.txt_plug{
+    color: #FFF;
+    text-align: right;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 22px;
+    line-height: 37px;
+    float: right;
+    padding-top: 70px;
+}
+
+.txt_adrien{
+    color: #FFF;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 22px;
+    line-height: 37px; /* 145.455% */
+    float: left;
+}
+
+.picc2{
+    margin-top: 50px;
+}
+
+
+.piccc2{
+    margin-top: 170px;
+}
+
+/*Нууру*/
+.br{
+    width: 1488px;
+    height: 750px;
+    background: linear-gradient(180deg, #162B14 0%, #5B0B8F 27.71%, #8611C9 52.19%, #640B89 78.23%, #38054D 98.02%);
+}
+
+.textpic3{
+    width: 1288px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.txt_lady{
+    display: block;
+    align-content: center;
+}
+
+
+.txt_tikki{
+    color: #FFF;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 22px;
+    line-height: 37px; /* 145.455% */
+    float: left;
+    margin-top: 70px;
+}
+
+.txt_mary{
+    color: #FFF;
+    text-align: right;
+    font-family: 'Comfortaa', sans-serif;
+    font-size: 22px;
+    line-height: 37px;
+    float: right;
+}
+
+.picc{
+    margin-top: 170px;
+}
+
+
+.piccc{
+    margin-top: 50px;
+}
+
+/*Подвал*/
+footer{
+    width: 1488px;
+    height: 120px;
+    background: linear-gradient(180deg, #38054D 0%, #000 100%);
+}
+
+.navi{
+    width: 1288px;
+    margin: 0 auto;
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+img{
+    margin-left: 24px;
+}
