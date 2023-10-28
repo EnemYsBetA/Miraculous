@@ -24,6 +24,7 @@ a{
     font-size: 22px;
     padding-top: 49px;
     margin-left: 48px;
+    text-decoration: none;
 }
 
 /*Главная страница*/
@@ -209,6 +210,8 @@ footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    
 }
 
 
